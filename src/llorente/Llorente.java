@@ -32,8 +32,6 @@ public class Llorente {
     
     public static void fantasma (){
     
-        System.out.print("Soc un fantasma");
-        System.out.println ("BUENAS TARDES ESTOY MODIFICANDO VAMOOH");
     }
     
 }
