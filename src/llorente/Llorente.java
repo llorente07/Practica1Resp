@@ -30,7 +30,7 @@ public class Llorente {
     return 0;
     }
     
-    public static void fantasma (){
+    public static void fantasma1 (){
     
     }
     
